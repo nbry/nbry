@@ -8,9 +8,11 @@ I am a software engineer who values the user experience over everything else. My
 - 🎸 Learning guitar
 - 🖥️ Finding software solutions to everyday problems!
 
+
 **Langages and Tools:**
 
 Python, Flask, JavaScript, React, NodeJS, Express, PostgreSQL, MySQL
+
 
 **What I'm working on:**  
 - My app, [TrekAssure](https://trekassure.herokuapp.com/)!
