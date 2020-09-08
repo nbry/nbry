@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hey! I'm Nathan 👋  
 
-<!--
-**nbry/nbry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a software engineer who values the user experience over everything else. My concern for the wants and needs of my clients and coworkers has a profound effect on the way I code. I design tools that have straightforward utility, clever logic, and clean visuals, tools that maximize the efficiency of a process and make sense at first glance.  
 
-Here are some ideas to get you started:
+**I am at my happiest when I am:**  
+- 🌲 Hiking!
+- ☕ Drinking pour over coffee
+- 🎸 Learning guitar
+- 🖥️ Finding software solutions to everyday problems!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Langages and Tools:**
+
+Python, Flask, JavaScript, React, NodeJS, Express, PostgreSQL, MySQL
+
+**My Projects**  
+- My app, TrekAssure!
+- Learning Ruby/Rails
+
