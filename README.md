@@ -13,6 +13,6 @@ I am a software engineer who values the user experience over everything else. My
 Python, Flask, JavaScript, React, NodeJS, Express, PostgreSQL, MySQL
 
 **My Projects**  
-- My app, TrekAssure!
+- My app, [TrekAssure](https://trekassure.herokuapp.com/)!
 - Learning Ruby/Rails
 
