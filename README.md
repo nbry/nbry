@@ -1,4 +1,5 @@
 ### Hey! I'm Nathan 👋  
+[LinkedIn](https://www.linkedin.com/in/nmwbryant/)  
 
 I am a software engineer who values the user experience over everything else. My concern for the wants and needs of my clients and coworkers has a profound effect on the way I code. I design tools that have straightforward utility, clever logic, and clean visuals, tools that maximize the efficiency of a process and make sense at first glance.  
 
