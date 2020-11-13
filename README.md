@@ -6,6 +6,7 @@ I am a software engineer who values the user experience over everything else. My
 **I'm at my happiest when I am:**  
 - 🌲 Hiking!
 - ☕ Drinking pour over coffee
+- 📚 Reading 
 - 🎸 Learning guitar
 - 🖥️ Finding software solutions to everyday problems!
 
@@ -16,6 +17,7 @@ Python, Flask, JavaScript, React, NodeJS, Express, PostgreSQL, MySQL
 
 
 **What I'm working on:**  
-- My app, [TrekAssure](https://trekassure.herokuapp.com/)!
-- Learning Ruby/Rails
+- An upcoming game, Portland 6!  
+- Practicing with GreenSock animations  
+- Playing around with NumPy  
 
