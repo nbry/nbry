@@ -17,6 +17,7 @@ Python, Flask, JavaScript, React, NodeJS, Express, PostgreSQL, MySQL
 
 
 **What I'm working on:**  
+- Learning Java!  
 - An upcoming game, Portland 6!  
 - Practicing with GreenSock animations  
 - Playing around with NumPy  
