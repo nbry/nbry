@@ -1,7 +1,10 @@
 ### Hey! I'm Nathan 👋  
 [LinkedIn](https://www.linkedin.com/in/nmwbryant/)  
 
-I am a software engineer who values the user experience over everything else. My concern for the wants and needs of my clients and coworkers has a profound effect on the way I code. I design tools that have straightforward utility, clever logic, and clean visuals, tools that maximize the efficiency of a process and make sense at first glance.  
+Follow my pursuits on [Twitter](https://twitter.com/forleti) as I make a fully-featured, "professional-grade" blogging app called Forleti (pronounced four-leh-tee).      
+
+
+About Me:
 
 **I'm at my happiest when I am:**  
 - 🌲 Hiking!
@@ -13,12 +16,12 @@ I am a software engineer who values the user experience over everything else. My
 
 **Langages and Tools:**
 
-Python, Flask, JavaScript, React, NodeJS, Express, PostgreSQL, MySQL
+Python, Flask, JavaScript, React, NodeJS, Express, PostgreSQL, MySQL, MongoDB
 
 
 **What I'm working on:**  
-- Learning Java!  
-- An upcoming game, Portland 6!  
-- Practicing with GreenSock animations  
-- Playing around with NumPy  
+- A blogging app called Forleti
+- Playing around with NumPy
+- Reading ___Effective Python___ by Brett Slatkin
+- Familiarzing myself with Java
 
