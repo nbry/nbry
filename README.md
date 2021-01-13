@@ -3,8 +3,10 @@
 
 Follow my pursuits on [Twitter](https://twitter.com/forleti) as I make a fully-featured, "professional-grade" blogging app called Forleti (pronounced four-leh-tee).      
 
+***
 
-About Me:
+
+## About Me:  
 
 **I'm at my happiest when I am:**  
 - 🌲 Hiking!
