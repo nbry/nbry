@@ -1,4 +1,4 @@
-### Hey! I'm Nathan 👋  
+# Hey! I'm Nathan 👋  
 [LinkedIn](https://www.linkedin.com/in/nmwbryant/)  
 
 Follow my pursuits on [Twitter](https://twitter.com/forleti) as I make a fully-featured, developer-focused blogging app called Forleti (pronounced four-leh-tee).      
