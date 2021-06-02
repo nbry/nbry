@@ -15,9 +15,8 @@ Hi there! I'm a backend software engineer who recently started at Smartcar!
 ## What I'm currently working on:
 - Finalizing my opinionated boilerplate/set up for new Flask projects. Check it out [here](https://github.com/nbry/FlaskBoilerplate "here")!
 - Improving my skill with TypeScript.
-- Checking out Fastify.
-- Dabbling in Rust.
-- Reading *Node.js Design Patterns* by Mario Casciaro and Luciano Mammino
+- Learning Vim. Goodbye mouse.
+- Learning from the expert devs at my company. Hoping to contribute soon!
 
 ## Engineering Interests:
 - API Development
