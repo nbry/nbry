@@ -10,22 +10,7 @@ Hi there! I'm a backend software engineer who recently started at Smartcar!
 - 📚 Reading
 - 🎸 Learning guitar
 - 🖥️ Coding
-- 🐧 Linux distro-hopping (because I totally didn't paste sketchy scripts into my terminal and break everything... again)
-
-## What I'm currently working on:
-- Finalizing my opinionated boilerplate/set up for new Flask projects. Check it out [here](https://github.com/nbry/FlaskBoilerplate "here")!
-- Improving my skill with TypeScript.
-- Learning Vim. Goodbye mouse.
-- Learning from the expert devs at my company. Hoping to contribute soon!
-
-## Engineering Interests:
-- API Development
-- Configuration Driven Development
-- System Design
-- Modularity
-- Prototyping
-- Project Organization
 
 ## Langages and Tools:
 
-Python, Flask, JavaScript, TypeScript, Node.js, Express, PostgreSQL, NoSQL
+Python, Node.js, PostgreSQL
