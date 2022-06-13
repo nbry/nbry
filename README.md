@@ -13,4 +13,4 @@ Hi there! I'm a backend software engineer at Smartcar!
 
 ## Langages and Tools:
 
-Node.js | Java | Python | Rust
+Node.js | TypeScript | Python | Rust | Redis | SQL | AWS
