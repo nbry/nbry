@@ -13,4 +13,6 @@ Hi there! I'm a backend software engineer at Smartcar!
 
 ## Langages and Tools:
 
-Node.js | TypeScript | Python | Rust | Redis | SQL | AWS
+Rust | Python | Node.js | Redis | SQL | AWS
+
+[![nbry's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?theme=dark&username=nbry&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
