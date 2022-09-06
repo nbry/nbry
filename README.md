@@ -11,8 +11,20 @@ Hi there! I'm a backend software engineer at Smartcar!
 - 🎸 Learning guitar
 - 🖥️ Coding
 
-## Langages and Tools:
+## Programming-related interests:
 
-Rust | Python | Node.js | Redis | SQL | AWS
+- APIs
+- Backend Development
+- Library Development
+- Metaprogramming
+- Serverless
+- Containers
+- Test Automation
+- Scripting
+- Web Scraping
+- Browser Automation
+- Neovim
+- Rust
+- Linux
 
 [![nbry's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?theme=dark&username=nbry&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
