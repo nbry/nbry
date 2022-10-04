@@ -17,8 +17,6 @@ I'm at my happiest when I am:
 - Backend Development
 - Library Development
 - Metaprogramming
-- Serverless
-- Containers
 - Test Automation
 - Scripting
 - Web Scraping
@@ -26,5 +24,3 @@ I'm at my happiest when I am:
 - Neovim
 - Rust
 - Linux
-
-[![nbry's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?theme=dark&username=nbry&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
