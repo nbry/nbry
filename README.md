@@ -5,11 +5,11 @@
 Hi there! I'm a backend software engineer at Smartcar!
 
 I'm at my happiest when I am:
-- 🌲 Hiking!
+- 🐶 Playing with my dog, Karl!
+- 🌲 Hiking
 - ☕ Drinking pour over coffee
 - 📚 Reading
-- 🎸 Learning guitar
-- 🖥️ Coding
+- 🎸 Playing guitar
 
 ## Programming-related interests:
 
