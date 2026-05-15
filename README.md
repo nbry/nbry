@@ -1,7 +1,7 @@
 # Hey! I'm Nathan 👋  
 <a href="https://www.linkedin.com/in/nmwbryant/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="Nathan Bryant LinkedIn"></a>
 
-I'm a backend software engineer.  I'm creating tools to help devs debug webhooks!
+I'm a backend software engineer. I'm creating a lifting program!
 
 ### Interests:
 
@@ -22,5 +22,6 @@ I'm a backend software engineer.  I'm creating tools to help devs debug webhooks
 - ☕ Drinking pour over coffee
 - 📚 Reading
 - 🎸 Playing guitar
+- 🏋️‍♂️ Lifting weights
 
 
